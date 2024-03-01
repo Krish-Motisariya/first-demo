@@ -1,4 +1,4 @@
 # first-demo
 This is my first Git Repository
 <br>
-Author - Krish Motisariya
+Author - Krish Motisariya(Home)
